@@ -113,7 +113,7 @@ Built for Kali Linux Edition with a Windows/Mac -compatible interface.
 - Port scanning functionality
 - MAC vendor lookup from IEEE
 - Logging to local file automatically
-- Executable packaging for Windows (.exe)
+- Executable packaging for Windows/Mac (.exe)
 
 ---
 
