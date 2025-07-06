@@ -103,7 +103,7 @@ The exported `.docx` file includes:
 
 **Arijeet Dey**
 
-Built for Kali Linux Edition with a Windows-compatible interface.
+Built for Kali Linux Edition with a Windows/Mac -compatible interface.
 
 ---
 
