@@ -36,7 +36,7 @@ flowchart TD;
     I --> J{More IPs?};
     J -->|Yes| F ;
     J -->|No| K[Update Progress Bar and Status];
-    K --> L[Export Results (Optional)];
+    K --> L[Export Results];
     L --> M[Save Word Report];
     M --> N[End];
 
