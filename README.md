@@ -109,10 +109,6 @@ Cybersecurity & Networking Projects | Python Developer
 
 ---
 
-Let me know if you'd like me to add:
-- Your GitHub repo link
-- Screenshot placeholders
-- Specific command-line usage examples
-- PDF/CSV export code updates (if implemented)
+
 
 I can also generate a `requirements.txt` file for you if needed.
