@@ -23,7 +23,6 @@ A Python-based graphical network scanning tool that performs device reachability
 ### Flowchart
 
 ```mermaid
-graph TD
     A[Start Application] --> B[Enter Network Prefix]
     B --> C[Select Number of Devices to Scan]
     C --> D[Enable Options: Hostname / MAC Lookup]
@@ -39,7 +38,6 @@ graph TD
     K --> L[Export Results (Optional)]
     L --> M[Save Word Report]
     M --> N[End]
-
 
 ---
 
