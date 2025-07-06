@@ -1,4 +1,4 @@
-
+![Screenshot 2025-07-06 231423](https://github.com/user-attachments/assets/41039087-509b-45c8-94a7-6b1d5a97f76c)![Screenshot 2025-07-06 231407](https://github.com/user-attachments/assets/156e8ed2-c179-4329-a444-12abce04a22a)
 
 # 🔍 Basic Network Scanner with GUI
 
@@ -47,8 +47,9 @@ bash
 python network_scanner.py
 
 
-📸 UI Snapshot
 
+📸 UI Snapshot
+![Screenshot 2025-07-06 231342](https://github.com/user-attachments/assets/c5176a94-0a03-4346-a9f0-80cae902a252)
 
 
 📄 Export Options
@@ -78,8 +79,7 @@ Schedule scan feature
 
 IP and MAC address retrieval
 
-📚 License
-This project is licensed under the MIT License.
+
 
 👨‍💻 Author
 Arijeet Dey
