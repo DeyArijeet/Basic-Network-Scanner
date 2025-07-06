@@ -20,8 +20,6 @@ A Python-based graphical network scanning tool that performs device reachability
 
 ### Screenshot
 
-
-
 ### Flowchart
 
 ```mermaid
