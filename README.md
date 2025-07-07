@@ -117,6 +117,7 @@ python network_scanner_mac_gui.py
 The exported `.docx` file includes:
 For Windows--
 [Basic Network Scan Windows Green signal.docx](https://github.com/user-attachments/files/21095175/Basic.Network.Scan.Windows.Green.signal.docx)
+
 [Basic Network Scan Windows Red signal.docx](https://github.com/user-attachments/files/21095174/Basic.Network.Scan.Windows.Red.signal.docx)
 
 For Mac--
