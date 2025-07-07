@@ -1,5 +1,8 @@
 # 🛰️ Basic Network Scanner with MAC Address Lookup
 
+![unnamed](https://github.com/user-attachments/assets/ca1f70c2-8d0a-4dbf-b326-53f946ae6bce)
+
+
 A Python-based graphical network scanning tool that performs device reachability checks (via ping), resolves hostnames, and optionally performs MAC address lookups using the ARP table. Results are displayed in real-time and can be exported to a formatted Word report.
 
 ---
