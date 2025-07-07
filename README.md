@@ -65,8 +65,8 @@ flowchart TD;
    Download the ZIP or run:
 
    ```bash
-   git clone https://github.com/yourusername/network-scanner.git
-   cd network-scanner
+  git clone https://github.com/yourusername/network-scanner.git
+   cd network-scanner](https://github.com/DeyArijeet/Basic-Network-Scanner.git)
    ```
 
 2. **Install Dependencies**\
