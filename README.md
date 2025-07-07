@@ -33,6 +33,9 @@ IP  NETWORK
 
 ![Screenshot 2025-07-06 231739](https://github.com/user-attachments/assets/60f67317-00d0-42b1-b1fc-7f2decec9d0e)
 
+![image](https://github.com/user-attachments/assets/9a490be5-035a-4daa-87ef-2d89d2b67fce)
+
+
 ### Flowchart
 
 ```mermaid
