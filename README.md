@@ -86,7 +86,7 @@ flowchart TD;
 
    - Enter your local network prefix (e.g., `192.168.1`)
    - Select the number of devices to scan
-   - Optionally enable hostname and MAC address lookup
+   - Optionally enable hostname and MAC / WINDOWS address lookup
    - Click `Start Scan` to begin
    - Export results with `Export to Word`
 
