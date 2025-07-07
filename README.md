@@ -79,6 +79,7 @@ flowchart TD;
    Launch the scanner using:
 
    ```bash
+   python network_scanner_windows_gui.py
    python network_scanner_mac_gui.py
    ```
 
