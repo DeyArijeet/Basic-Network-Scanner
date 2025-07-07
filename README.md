@@ -19,14 +19,15 @@ A Python-based graphical network scanning tool that performs device reachability
 ## 🧱 GUI Overview
 
 ### Screenshot
-![Screenshot 2025-07-06 231851](https://github.com/user-attachments/assets/26bd36af-30fc-451f-9f00-ec360b9dd472)
-![Screenshot 2025-07-06 231801](https://github.com/user-attachments/assets/89109dea-ab66-4294-9360-eed007a30a76)
-![Screenshot 2025-07-06 231739](https://github.com/user-attachments/assets/60f67317-00d0-42b1-b1fc-7f2decec9d0e)
+
+
 ![Screenshot 2025-07-06 231618](https://github.com/user-attachments/assets/35679dab-da81-4f54-8020-b36482d657aa)
 ![Screenshot 2025-07-06 231539](https://github.com/user-attachments/assets/6a6fc7e1-2f0c-409e-af5b-5dd3da0973bf)
 ![Screenshot 2025-07-06 231423](https://github.com/user-attachments/assets/9c3f44a8-9ce2-433a-a9cc-aa1ff338a4eb)
 ![Screenshot 2025-07-06 231407](https://github.com/user-attachments/assets/cd560680-3f50-41bf-8254-ac89441d628e)
 ![Screenshot 2025-07-06 231342](https://github.com/user-attachments/assets/b1e3c56b-86f8-4c85-8089-09121e46b7b1)
+
+![Screenshot 2025-07-06 231739](https://github.com/user-attachments/assets/60f67317-00d0-42b1-b1fc-7f2decec9d0e)
 
 ### Flowchart
 
