@@ -59,6 +59,40 @@ flowchart TD;
 
 ## 🚀 How to Run
 
+### 🪜 Step-by-Step Process
+
+1. ** Download the Project**\
+   Download the ZIP or run:
+
+   ```bash
+   git clone https://github.com/yourusername/network-scanner.git
+   cd network-scanner
+   ```
+
+2. **Install Dependencies**\
+   Make sure Python is installed (Python 3.6+). Then install the required package:
+
+   ```bash
+   pip install python-docx
+   ```
+
+3. **Run the Application**\
+   Launch the scanner using:
+
+   ```bash
+   python network_scanner_mac_gui.py
+   ```
+
+4. **Using the GUI**
+
+   - Enter your local network prefix (e.g., `192.168.1`)
+   - Select the number of devices to scan
+   - Optionally enable hostname and MAC address lookup
+   - Click `Start Scan` to begin
+   - Export results with `Export to Word`
+
+---
+
 ### 🔧 Requirements
 
 Install the dependencies:
