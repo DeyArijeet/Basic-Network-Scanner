@@ -80,6 +80,7 @@ flowchart TD;
 
    ```bash
    python network_scanner_windows_gui.py
+   OR
    python network_scanner_mac_gui.py
    ```
 
@@ -104,6 +105,8 @@ pip install python-docx
 ### ▶️ Run the Application
 
 ```bash
+python network_scanner_windows_gui.py
+OR
 python network_scanner_mac_gui.py
 ```
 
